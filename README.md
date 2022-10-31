@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YOUUJUN
 - 👀 I’m interested in JavaScript
-- 🌱 I’m currently learning Hybrid App
+- 🌱 I’m currently learning Hybrid App, typescript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
